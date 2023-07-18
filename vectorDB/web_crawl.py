@@ -22,7 +22,7 @@ import certifi
 # Regex pattern to match a URL
 HTTP_URL_PATTERN = r'^http[s]{0,1}://.+$'
 
-openai.api_key = "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"
+openai.api_key = "YOUR_OPENAI_KEY"
 
 # Define root domain to crawl
 #domain = "openai.com"
