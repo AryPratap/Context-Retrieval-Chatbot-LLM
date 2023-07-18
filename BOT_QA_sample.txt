@@ -1,0 +1,90 @@
+//Enter a query: What is the B.Tech curriculum?
+
+> Question:
+What is the B.Tech curriculum?
+
+> Answer (took 17.74 s.):
+
+The following are the courses that an IIT student can choose from, which could be a part of the B.Tech curriculum.
+
+1.Computer Science and Engineering (CSE) 
+2.Information Technology (IT)
+3.Mechanical Engineering
+4.Civil Engineering
+5.Electrical and Electronics Engineering
+6.Electronics and Communication Engineering
+7.Chemical Engineering
+8.Computer Science
+9.Software Engineering
+10.Database Management
+11.Information Science and Statistics
+12.Information Science and Artificial Intelligence
+13.Operations Research
+14.International Relations
+15.International Business
+16.Public Policy
+17.Marketing
+18.Psychology
+19.Business Analytics
+20.Tourism Management
+21.Business Finance
+22.Law
+23.Information Management
+24.Financial Management
+25.Agriculture
+
+
+//Enter a query: Name some cse professors
+
+> Question:
+Name some cse professors
+
+> Answer (took 21.41 s.):
+
+Here is a list of professors and their names:
+
+Srimanta Mandal, Vinay Palaparthy, Jayprakash T Lalchandani Aditi Nath Sarkar 
+Anirban Dutta Gupta Ajit Pal Ganesh Devy ALIK BANERJEE, ARCHANA NIGAM Hardik Sailor, Shailendra Kumar Singh, Shefali Jha, 
+Rutu Parekh SADHWANI MADHVI KANAYALAL Sanjay Srivastava Sanjeev Gupta SAYAN MUKHERJEE SHAH MIRAL ASHOKKUMAR, Shweta Garg, 
+Rishikant Rajdeepak, RIYANKA JENA Rutu Parekh SADHWANI MADHVI KANAYALAL Sanjay Srivastava Sanjeev Gupta Saurabh Tiwari 
+SAYAN MUKHERJEE SHAH MIRAL ASHOKKUMAR, Shweta Garg, Sanjay Srivastava Sanjeev Gupta Saurabh Tiwari SAYAN MUKHERJEE SHAH MIRAL ASHOKKUMAR.
+
+
+//Enter a query: What are the placement statistics?
+
+
+> Question:
+What are the placement statistics?
+
+> Answer (took 13.89 s.):
+
+Placement statistics for B.Tech - M.Tech - M.Sc(IT) - M.Sc(ICT) - M.Des(CD) are as follows:
+
+Placement statistics for 2018-19 is as follows:
+
+- 197 students placed out of a total of 330 students passing out in 2018-19.
+
+The average annual salary package was Rs. 10.16.
+
+The highest salary package touched Rs. 39.30.
+
+Some of the outcomes of these activities included possible The B.Tech 2017-18 Batch comprising 320 students comprising of 50 students placed in 31 Non-Governmental Organizations.
+
+
+
+//Enter a query: How is the campus life at DAIICT?
+
+> Question:
+How is the campus life at DAIICT?
+
+> Answer (took 22.04 s.):
+
+The institute sees itself as a civic institution deeply committed to seeing its students as responsible citizens. 
+Its social sciences courses, its variety of internships are designed to increase social commitment and competence as 
+citizens understanding the nature of societal and organizational needs. Ph.D. Contact Us Text DA-IICT, DA-IICT Road, 
+Gandhinagar 382 007, Gujarat (India) Text For Admission Enquiries Text (+91) 079 - 6826 1700 Text (+91) 079 - 6826 1710 
+Text info[at]daiict[dot]ac[dot]in Follow Us On facebook twitter Instagram Youtube LinkedIn blogIcon Admissions displayNone U
+ndergraduate displayNone Postgraduate displayNone Doctoral Program displayNone Scholarships Research displayNone Research 
+Overview displayNone Deans Office displayNone Areas displayNone Sponsored Projects displayNone Faculty Achievements displayNone Publications displayNone Theses and Reports Academics displayNone Undergraduate displayNone Postgraduate displayNone Doctoral displayNone Stakeholder Feedback People displayNone Faculty displayNone Staff displayNone Doctoral Scholars NAAC displayNone SSR & Evaluative Reports Addendum 2017 displayNone displayNone SSR 2015 displayNone displayNone Evaluative Report 2015 displayNone CoE, Government of Gujar
+
+Enter a query: exit
