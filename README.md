@@ -47,4 +47,5 @@ The repo features two pipeline,
 
 Just run the <b>BOT_with_custom_retrieval_chain.ipynb</b> and <b>BOT_with_langhchain_retrieval_chain.ipynb</b> file for running the piplein, refer to the comments in the notebook for setup and vectorDB path defination. 
 
+<b> The BOT_QA_sample.txt file contains some sample question answering pair for the build chatbot. </b> 
 
