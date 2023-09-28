@@ -1,4 +1,4 @@
-# ContextLLM-Context-Retrieval-Chatbot-with-Large-Language-Model
+# ContextLLM-Retrieval-Augmented-Generation-based-chatbot-with-LLLM
 
 ## Installation and Setup
 ```
